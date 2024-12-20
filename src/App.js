@@ -235,6 +235,8 @@ const App = () => {
       >
         <FaEthereum />
       </motion.div>
+
+      <p className="mt-5"> https://crypto-wrapped-one.vercel.app </p>
     </div>
   );
 };
